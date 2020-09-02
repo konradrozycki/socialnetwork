@@ -50,4 +50,4 @@ CREATE TABLE wall_posts
     post TEXT NOT NULL CHECK (post != ''),
     user_id INT REFERENCES users(id) NOT NULL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-)
+);
