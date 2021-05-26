@@ -3,12 +3,14 @@ Social Network build with React.
 
 # Features 
 
-create account.<br />
-set/edit profile picture.<br />
-edit profile info.<br />
-invite/uninvite people to your friends.<br />
-availability to chat with others.<br />
-delete your account.<br />
+<ul>
+<li>create account.</li>
+<li>set/edit profile picture.</li>
+<li>edit profile info.</li>
+<li>invite/uninvite people to your friends.</li>
+<li>availability to chat with others.</li>
+<li>delete your account.</li>
+</ul>  
 
 ## Available Scripts
 
